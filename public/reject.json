@@ -1,0 +1,112 @@
+{
+  "user": [
+    {
+      "userName": "diane xing",
+      "profilePicture": "https://i.ibb.co/TBnG2hP/Screenshot-2024-02-01-at-08-39-42.png",
+      "followStatus": "Unfollow",
+      "posts": [
+        {
+          "title": "Trying something new, need your help",
+          "date": "2 min ago",
+          "category": "Creativity",
+          "readTime": "2 min",
+          "postImage": "https://i.ibb.co/7V2Q6Hq/Screenshot-2024-02-01-at-08-38-47.png",
+          "postDrescription": "Hey, creative souls!I'm venturing into uncharted artistic territory, and now I'm gearing up to add some color to my masterpiece. Ready for the painting stage, but I need your input! I'm brainstorming ideas for a handle on the bottom while I work my painting magic. Any suggestions or DIY hacks? What's your go-to handle for hassle-free painting? Let the creative suggestions flow!",
+
+          "reaction": true,
+          "hashTag": ["#Art", "#Painting"]
+        }
+      ]
+    },
+    {
+      "userName": "Haider Richard",
+      "profilePicture": "https://i.ibb.co/qM85XCv/Screenshot-2024-01-31-at-00-40-16.png",
+      "followStatus": "Unfollow",
+      "posts": [
+        {
+          "title": "I learned react native and cracked the interview in just 2 month",
+          "date": "just now",
+          "category": "Programming",
+          "readTime": "1 min",
+          "postImage": "https://i.ibb.co/YhxVzw4/Screenshot-2024-01-31-at-00-40-56.png",
+          "postDrescription": "Just wrapped up a 2-month journey diving into React Native, and the progress is surreal! From struggling to write a single line of code at the start to facing an interview yesterday  and guess what? I nailed it! It's been a rollercoaster of late-night coding sessions, debugging adventures, and countless aha moments. Yesterday's interview was the ultimate test, and I not only survived but thrived!  Shared my newfound React Native expertise with confidence. To everyone in the coding trenches, keep at it! Two months ago, I was a beginner, and now I'm feeling like a React Native maestro.",
+
+          "reaction": true,
+          "hashTag": ["#ReactNativeJourney", "#CodingAdventure"]
+        }
+      ]
+    },
+    {
+      "userName": "Ashleigh Rogers",
+      "profilePicture": "https://i.ibb.co/98xtP4G/6.png",
+      "followStatus": "Unfollow",
+      "posts": [
+        {
+          "title": "Learning the piano",
+          "date": "10 min ago",
+          "category": "Music",
+          "readTime": "2 min",
+          "postImage": "https://i.ibb.co/rdQKnm7/Screenshot-2024-02-01-at-09-32-12.png",
+          "postDrescription": "Learning the piano develops the core foundation of music learning. That includes reading music notes, a sense of pitch and dynamics, a proper understanding of music theory which can later be applied to any other instrument. Really, the piano is a great instrument to start with! ",
+
+          "reaction": true,
+          "hashTags": ["#Piano", "#Music"]
+        }
+      ]
+    },
+    {
+      "userName": "Qasim Skinner",
+      "profilePicture": "https://i.ibb.co/s9TDTFv/Screenshot-2024-01-30-at-19-41-12.png",
+      "followStatus": "Follow",
+      "posts": [
+        {
+          "title": "Exploring Shirt-Making for Fun and Profit – Need Tips on Making the Ink Stick!",
+          "date": "Today",
+          "category": "Art",
+          "readTime": "1 min",
+          "postImage": "https://i.ibb.co/N76czjq/Screenshot-2024-01-30-at-19-40-52.png",
+          "postDrescription": " So, I've decided to dive into the world of shirt-making because, well, why not turn a passion into some extra cash, right? But here's the thing – I'm in need of some advice on making sure the ink stays put on the shirts. I've been tinkering around, trying different methods, but it's proving to be a bit trickier than expected. I know there are some seasoned shirt-making pros out there, and I could use your wisdom. Feel free to drop your knowledge in the comments or shoot me a message. I'm all ears (well, eyes in this case)",
+
+          "reaction": true,
+          "hashTag": ["#tshirt", "#making t-shirt", "#NewAdventure"]
+        }
+      ]
+    },
+    {
+      "userName": "Sharon Cooper",
+      "profilePicture": "https://i.ibb.co/c6DjykF/Screenshot-2024-02-01-at-15-00-38.png",
+      "followStatus": "Unfollow",
+      "posts": [
+        {
+          "title": "Completing a DIY Home Improvement Project",
+          "date": "2 day ago",
+          "category": "Craft",
+          "readTime": "3 min",
+          "postImage": "https://i.ibb.co/nfzYXKx/Screenshot-2024-02-01-at-15-05-07.png",
+          "postDrescription": "This weekend, I decided to roll up my sleeves and take up a DIY home improvement project I've been putting off for months—a bookshelf for my living room. With little more than a stack of lumber, a hammer, and a can-do attitude. From measuring and cutting to sanding and staining, each step of the process presented its own set of challenges and wins.. And while there were moments of frustration and even a few splinters along the way, seeing the finished product standing proudly in my living room made it all worthwhile. Sure, it may not be the most professionally crafted piece of furniture, but to me, it's a symbol of resourcefulness, and the satisfaction that comes from creating something with your own two hands. As I admire my handiwork, I can't help but feel a sense of pride knowing that I just built a bookshelf! ",
+
+          "reaction": true,
+          "hashTag": ["#DIYorDie", "#Handiwork"]
+        }
+      ]
+    },
+    {
+      "userName": "Gamal Akbar",
+      "profilePicture": "https://i.ibb.co/5sQFd7t/Screenshot-2024-01-25-at-07-40-55.png",
+      "followStatus": "Unfollow",
+      "posts": [
+        {
+          "title": "I have received a LeetCode t-shirt as a gift from the LeetCode website",
+          "date": "2 day ago",
+          "category": "Programming",
+          "readTime": "3 min",
+          "postImage": "https://i.ibb.co/QngLymm/Screenshot-2024-01-25-at-07-54-43.png",
+          "postDrescription": "I am thrilled to share that I have received a LeetCode t-shirt as a gift from the LeetCode website! This t-shirt is not just a piece of clothing, but a symbol of my work and passion for coding. Over the past year, I have been solving problems on LeetCode every day, collecting leetcoins along the way. LeetCode offers a variety of coding challenges that cover different topics and languages. It wasn't easy to maintain this habit, especially when I faced some difficult or tricky problems. But I did not give up. I kept trying, learning, and improving. Solving these problems helped me improve my skills, learn new concepts, and prepare for interviews.",
+
+          "reaction": true,
+          "hashTag": ["#programming", "#leetcode"]
+        }
+      ]
+    }
+  ]
+}
